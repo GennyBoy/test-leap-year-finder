@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@gennyboy/leap-year-finder": "^1.0.1"
+  }
+}
